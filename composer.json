@@ -1,0 +1,19 @@
+{
+  "name": "putrawan/tugas-si2",
+  "description": "Tugas 2 PBWL SEMESTER 6 Putrawan SI2 0702203193",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Putrawan_p01",
+      "email": "putrawanp01@users.noreply.github.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "filp/whoops": "^2.14"
+  }
+}
